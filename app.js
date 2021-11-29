@@ -4,9 +4,9 @@
 let history = document.getElementById('historyG');
 let push = document.getElementById('push');
 let objet = ["avec un ami","avec une copine","avec un parent","avec un telephone","avec un vere de porto"];
-let temps = ["quand il fait -1000","quand il fait 15°","quand il fait 25°","quand il fait 5°","quand il fait 7°"];
+let temps = ["quand il fait -1000 ","quand il fait 15° ","quand il fait 25° ","quand il fait chaud° ","quand il fait froid° "];
 let lieux = ["a fourmies ","en chine ","au japon ","a la plage "," en guadeloupe "];
-let verbes = ["a manger","a dormir","a chicher","a partager","a courir"];
+let verbes = ["a manger ","a dormir ","a chicher ","a partager ","a courue "];
 
 /*
     apply the Math.floor followed by a Math.random on the different boards
